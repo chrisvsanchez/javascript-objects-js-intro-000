@@ -1,1 +1,1 @@
-var playlist = {artistNames: songTitle};
+var playlist = {The Strokes: Someday};
